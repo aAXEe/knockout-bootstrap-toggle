@@ -1,0 +1,27 @@
+{
+  "name": "knockout-bootstrap-toggle",
+  "homepage": "https://github.com/aAXEe/knockout-bootstrap-toggle",
+  "authors": [
+    "Axel Utech <axel.utech@gmail.com>"
+  ],
+  "description": "Knockout Binding Handler for the bootstrap-toggle plugin",
+  "main": "ko.bindingHandlers.bootstrapToggle.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "knockoutjs",
+    "bootstrap",
+    "bootstrap-toggle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
